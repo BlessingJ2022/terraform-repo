@@ -1,2 +1,2 @@
 # terraform-repo
-# codes on how to launch a instance using terraform"
+# codes on how to launch a instance on AWS using terraform"
